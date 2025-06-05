@@ -8,7 +8,7 @@ export ZSH="$HOME/.oh-my-zsh"
 export PS1=$'\n'"%F{green} %*%F %3~ %F{white}"$'\n'"$ "
 
 # Define the base directory for Obsidian notes
-obsidian_base="/Users/klink/Documents/WYNTK"
+obsidian_base="/Users/klink/WINTK"
 
 # Loop through all files in the ~/.config/fabric/patterns directory
 for pattern_file in ~/.config/fabric/patterns/*; do
